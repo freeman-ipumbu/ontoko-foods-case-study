@@ -31,6 +31,23 @@ Ontoko had a recognisable product identity, public coverage and a strong founder
 - Direct WhatsApp and email conversion paths for customers and partners
 - Accessible motion, reduced-motion support, responsive layouts and Cloudflare security headers
 
+## From product list to product appetite
+
+The range originally risked reading like four coloured information panels. The final system treats every category as something visitors should be able to see and almost feel: authentic Ontoko cartons, healthy poultry, tactile farm meats and an abundant seasonal harvest. The four photographs share one warm Namibian light, one earthy grade and one editorial standard, while the interface preserves strong text contrast and natural mobile crops.
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/ontoko-eggs-card.jpg" alt="Ontoko table eggs in authentic branded cartons" width="100%"></td>
+    <td width="50%"><img src="assets/ontoko-poultry-card.jpg" alt="Healthy brown poultry in a warm Namibian farm setting" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/ontoko-meats-card.jpg" alt="Farm meats presented on a warm timber packing table" width="100%"></td>
+    <td width="50%"><img src="assets/ontoko-harvest-card.jpg" alt="A seasonal Namibian vegetable harvest" width="100%"></td>
+  </tr>
+</table>
+
+Flat colour fields across the wider site were rebuilt with paper grain, agricultural contour lines, photographic depth, warm light and oversized background typography. Mobile is not a compressed desktop afterthought: crops, type scales, tap targets, safe areas and interaction states are deliberately tuned down to 320px.
+
 ## Design direction
 
 The visual system starts with the brand already on Ontoko's cartons: yolk orange, farm green, warm cream, earth brown and a bold black ground. **Fraunces** brings a human, editorial voice to Jane's story; **Manrope** keeps product and action language clean and contemporary.
