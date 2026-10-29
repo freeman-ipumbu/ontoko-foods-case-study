@@ -123,4 +123,4 @@ Public-source research · story architecture · brand translation · art directi
 
 ---
 
-An experience by **[SolarSpin Technologies](https://solarspin-namibia.pages.dev/)**. Built by Freeman Ipumbu for Jane, Ontoko and the food future Namibia can grow at home.
+An experience by **[SolarSpin Technologies](https://www.solarspin-namibia.xyz/)**. Built by Freeman Ipumbu for Jane, Ontoko and the food future Namibia can grow at home.
